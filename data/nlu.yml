@@ -29,6 +29,7 @@ nlu:
     - hi?
     - hey bot!
     - hello friend
+    - helo
 - intent: callname
   examples: |
     - Alice
